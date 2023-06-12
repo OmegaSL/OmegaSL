@@ -34,7 +34,7 @@ I'm OmegaSL, a full-stack web and mobile app developer. I specialize in building
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://meme-api.com/gimme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omegasl&icon=0&color=0)](https://visitcount.itsvg.in)
