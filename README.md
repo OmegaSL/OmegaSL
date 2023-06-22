@@ -31,7 +31,7 @@ A full-stack web and mobile app developer. I specialize in building web applicat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omegasl&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
 ### 😂Comic Dev Meme
 <p align="center"> 
