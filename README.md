@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%2C%20I'm%20Favour%20Nwevo%20(OmegaSL)&width=1800&height=300)](https://github.com/Akshay090/svg-banners)
 
-A full-stack web and mobile app developer. I specialize in building web applications with PHP Framework (Laravel), Vue js, Livewire with Alpine js and Mobile Application with Flutter. I focus on building responsive and progressive web applications with exceptional digital experiences.
+A full-stack web and mobile app developer. I specialize in building web applications with PHP Framework (Laravel), Vue js, React js, Livewire with Alpine js and Mobile Application with Flutter. I focus on building responsive and progressive web applications with exceptional digital experiences.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ogbonnayafavour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-nwevo-055017150) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/favournwevo) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:favournwevo@gmail.com)
